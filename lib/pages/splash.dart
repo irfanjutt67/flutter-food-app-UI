@@ -24,7 +24,7 @@ class SplashPage extends StatelessWidget {
             child: Stack(children: [
               Positioned(
                 top: 130,
-                left: 70,
+                left: 90,
                 child: FadeInUp(
                     delay: const Duration(milliseconds: 700),
                     child: Text(
